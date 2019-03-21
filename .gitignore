@@ -33,7 +33,6 @@ proguard/
 captures/
 
 # IntelliJ
-*.iml
 .idea
 
 # Keystore files
@@ -58,4 +57,4 @@ fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
 
-*.DS_Store
+*/DS_Store
