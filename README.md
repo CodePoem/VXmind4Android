@@ -1,4 +1,4 @@
-# Deprecated And Migrate to [VAndroidReview](VAndroidReview)
+# Deprecated And Migrate to [VAndroidReview](https://github.com/CodePoem/VAndroidReview)
 
 ## VXmind4Android
 
